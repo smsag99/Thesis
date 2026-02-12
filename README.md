@@ -81,8 +81,8 @@ The repository contains 40+ peer-reviewed papers covering:
 | Phase | Period | Status |
 |-------|--------|--------|
 | Literature Review | Completed | ✅ |
-| Proposal Defense | Completed | 🔄 |
-| Data Collection | Completed | 🔄 |
+| Proposal Defense | Completed | ✅ |
+| Data Collection | Completed | ✅ |
 | Data Analysis | In Progress | 🔄 |
 | Model Development | In Progress | 🔄 |
 | Results & Writing | In Progress | 🔄 |
@@ -103,7 +103,7 @@ This research is currently under development. Please contact the author for perm
 
 ---
 
-**Last Updated**: December 2025  
+**Last Updated**: Feb 2026  
 **Status**: Active Development 🚀
 
 ---
