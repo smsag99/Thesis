@@ -1,7 +1,0 @@
-pair,best_k,silhouette,discrete_x
-parity x milk_kg,3,0.4,True
-AFC x milk_kg,3,0.388,True
-SCS x milk_kg,3,0.356,False
-fat_p x milk_kg,2,0.34,False
-DIM x milk_kg,3,0.339,False
-protein_p x milk_kg,2,0.333,False

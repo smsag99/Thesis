@@ -1,6 +1,0 @@
-parity,kmeans_best_k,kmeans_sil,dbscan_clusters,dbscan_noise
-1,2,0.44,1,0.007
-2,2,0.454,1,0.005
-3,2,0.457,1,0.005
-4,2,0.458,1,0.006
-5,2,0.447,1,0.006
