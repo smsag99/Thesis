@@ -1,0 +1,103 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{uslar2019applying}{article}{}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{10}{}{%
+        {{hash=6d45c02a13e36e5e05fc2c034c16f738}{%
+           family={Uslar},
+           familyi={U\bibinitperiod},
+           given={Mathias},
+           giveni={M\bibinitperiod}}}%
+        {{hash=3f613f1511f13d7a98c01f410bc841a8}{%
+           family={Rohjans},
+           familyi={R\bibinitperiod},
+           given={Sebastian},
+           giveni={S\bibinitperiod}}}%
+        {{hash=47a52382ff7423b52fc2654574e0ef3a}{%
+           family={Neureiter},
+           familyi={N\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod}}}%
+        {{hash=f4c9d3b1cdcccf65a606209a1dc6243e}{%
+           family={Pröstl\bibnamedelima Andrén},
+           familyi={P\bibinitperiod\bibinitdelim A\bibinitperiod},
+           given={Filip},
+           giveni={F\bibinitperiod}}}%
+        {{hash=5eeb058bd7148cf30746863303b56fd9}{%
+           family={Velasquez},
+           familyi={V\bibinitperiod},
+           given={Jorge},
+           giveni={J\bibinitperiod}}}%
+        {{hash=a2cecf9d43ff4406a541ac2d889b1308}{%
+           family={Steinbrink},
+           familyi={S\bibinitperiod},
+           given={Cornelius},
+           giveni={C\bibinitperiod}}}%
+        {{hash=d84f3bf83db760c884dcb2fd98be13d1}{%
+           family={Efthymiou},
+           familyi={E\bibinitperiod},
+           given={Venizelos},
+           giveni={V\bibinitperiod}}}%
+        {{hash=4344795b177ebfcc44f9ab0488e88fe0}{%
+           family={Migliavacca},
+           familyi={M\bibinitperiod},
+           given={Gianluigi},
+           giveni={G\bibinitperiod}}}%
+        {{hash=b3fd7d3f5ec4b956fdd3300ccb4f33e2}{%
+           family={Horsmanheimo},
+           familyi={H\bibinitperiod},
+           given={Seppo},
+           giveni={S\bibinitperiod}}}%
+        {{hash=f58fff76d1a720f2a0b3ba3b911b2a12}{%
+           family={Brunner},
+           familyi={B\bibinitperiod},
+           given={Helfried},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {MDPI}%
+      }
+      \strng{namehash}{fc676b6e0549f4e6bcd52c0e9c7ddcc7}
+      \strng{fullhash}{bbaecc468367e59e5aa4fb2ffcc11f7f}
+      \strng{fullhashraw}{bbaecc468367e59e5aa4fb2ffcc11f7f}
+      \strng{bibnamehash}{fc676b6e0549f4e6bcd52c0e9c7ddcc7}
+      \strng{authorbibnamehash}{fc676b6e0549f4e6bcd52c0e9c7ddcc7}
+      \strng{authornamehash}{fc676b6e0549f4e6bcd52c0e9c7ddcc7}
+      \strng{authorfullhash}{bbaecc468367e59e5aa4fb2ffcc11f7f}
+      \strng{authorfullhashraw}{bbaecc468367e59e5aa4fb2ffcc11f7f}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Energies}
+      \field{number}{2}
+      \field{title}{Applying the smart grid architecture model for designing and validating system-of-systems in the power and energy domain: A European perspective}
+      \field{volume}{12}
+      \field{year}{2019}
+      \field{pages}{258}
+      \range{pages}{1}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

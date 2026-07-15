@@ -1,0 +1,11 @@
+group,trait,per10,ci95,animals
+North,milk_kg,-0.0229,0.581,6878
+North,SCS,0.4066,0.1153,6878
+Central,milk_kg,-0.4952,0.2648,25085
+Central,SCS,0.2014,0.1741,25085
+South,milk_kg,-0.2574,0.1593,57445
+South,SCS,0.1159,0.0807,57445
+Campania+Lazio,milk_kg,-0.3607,0.1527,73946
+Campania+Lazio,SCS,0.1626,0.0848,73946
+Rest,milk_kg,-0.1,0.3219,15463
+Rest,SCS,0.2101,0.1352,15463

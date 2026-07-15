@@ -1,0 +1,22 @@
+{
+  "best_window": {
+    "milk_kg": 45,
+    "SCS": 7,
+    "fat_p": 45,
+    "protein_p": 45
+  },
+  "best_per10": {
+    "milk_kg": -0.4676,
+    "SCS": -0.0201,
+    "fat_p": 0.1071,
+    "protein_p": 0.0552
+  },
+  "event_freq_pct": {
+    "heat_event": 1.241,
+    "severe_heat": 0.0,
+    "cold_snap": 15.768,
+    "severe_cold": 0.084
+  },
+  "milk_delta_heatwave": -0.42,
+  "milk_delta_coldsnap": -0.0
+}

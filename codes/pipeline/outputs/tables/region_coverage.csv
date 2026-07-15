@@ -1,0 +1,17 @@
+macro_area,Region,farms,animals,records,rec_share_%
+South,Campania,179,50043,863661,53.3
+Central,Lazio,91,24861,449054,27.7
+South,Puglia,11,3219,65566,4.0
+North,Lombardia,4,2668,58686,3.6
+North,Piemonte,3,2108,41815,2.6
+South,Basilicata,6,1992,41588,2.6
+South,Calabria,4,1744,34351,2.1
+North,Friuli Venezia Giulia,3,1075,22509,1.4
+North,Veneto,4,1095,18838,1.2
+South,Sicilia,4,864,9566,0.6
+South,Molise,1,294,7070,0.4
+Central,Toscana,2,349,4754,0.3
+Central,Marche,1,173,1812,0.1
+North,Emilia Romagna,1,20,387,0.0
+Central,Umbria,1,33,361,0.0
+South,Abruzzo,1,28,186,0.0

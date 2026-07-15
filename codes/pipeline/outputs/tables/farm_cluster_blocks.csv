@@ -1,0 +1,4 @@
+block,best_k,silhouette,ARI_k=bestk,ARI_k=3_vs_macroarea,DBI
+full,3,0.166,0.076,0.076,1.978
+climate,2,0.588,0.165,0.088,0.584
+production,4,0.242,0.005,0.016,1.212

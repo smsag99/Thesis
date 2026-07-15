@@ -1,0 +1,13 @@
+Region,milk_kg,ECM,fat_p,protein_p,SCS,parity,AFC_mo,macro_area
+Basilicata,3,3,1,2,3,1,1,South
+Calabria,2,2,1,1,2,2,1,South
+Campania,2,2,1,2,2,1,2,South
+Friuli Venezia Giulia,2,2,1,1,1,2,2,North
+Lazio,2,2,1,2,1,2,2,Central
+Lombardia,1,1,2,2,3,1,1,North
+Molise,3,3,1,1,1,2,1,South
+Piemonte,2,2,1,2,4,1,2,North
+Puglia,3,2,1,2,1,2,2,South
+Sicilia,1,1,2,1,4,1,2,South
+Toscana,1,1,1,2,1,2,2,Central
+Veneto,1,1,2,2,3,1,2,North

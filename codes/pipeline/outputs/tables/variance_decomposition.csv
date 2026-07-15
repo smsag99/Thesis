@@ -1,0 +1,6 @@
+trait,animal_repeatability,HTD_var_share_eta2,sigma2_animal,sigma2_resid
+milk_kg,0.404,0.317,3.508,5.183
+fat_p,0.245,0.376,0.699,2.153
+protein_p,0.316,0.319,0.049,0.106
+SCS,0.312,0.367,0.886,1.959
+ECM,0.358,0.322,8.102,14.542

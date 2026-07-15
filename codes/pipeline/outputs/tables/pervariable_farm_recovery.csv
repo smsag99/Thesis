@@ -1,0 +1,8 @@
+variable,best_k,silhouette,ARI_vs_Region,ARI_vs_macroarea
+SCS,2,0.576,0.011,0.006
+protein_p,5,0.565,0.009,0.003
+AFC_mo,4,0.58,0.031,0.003
+parity,2,0.618,0.003,-0.001
+milk_kg,2,0.553,-0.008,-0.005
+ECM,5,0.537,-0.012,-0.011
+fat_p,2,0.648,-0.041,-0.025

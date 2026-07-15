@@ -1,0 +1,9 @@
+model,trait,x,per10,p,n
+anom / summer(warmhalf),milk_kg,THI_anom,-0.0704,0.021374039278924197,810778
+anom / summer(warmhalf),SCS,THI_anom,-0.0115,0.5482908414897891,810778
+anom / summer(warmhalf),fat_p,THI_anom,-0.0636,0.009882531703799664,810778
+anom / summer(warmhalf),protein_p,THI_anom,-0.0137,0.007725284726709305,810778
+anom / summer(strict),milk_kg,THI_anom,-0.0499,0.2735434363644794,541974
+anom / summer(strict),SCS,THI_anom,0.0346,0.16179084144400024,541974
+raw THI / full year,milk_kg,THI_1_avg,0.0578,1.7115195196118606e-06,1620204
+raw THI / full year,SCS,THI_1_avg,-0.0548,9.558084237885026e-20,1620204
