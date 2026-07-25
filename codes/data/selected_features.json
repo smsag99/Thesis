@@ -1,0 +1,36 @@
+{
+  "milk_kg_stats": [
+    "DIM",
+    "milk_kg_lag1"
+  ],
+  "protein_p_stats": [
+    "DIM",
+    "protein_p_lag1"
+  ],
+  "milk_kg_climate": [
+    "DIM",
+    "THI_1_avg_anom",
+    "THI_1_avg_anom_lag1"
+  ],
+  "protein_p_climate": [
+    "DIM",
+    "WHI_avg_anom",
+    "THI_1_avg_anom_lag1"
+  ],
+  "milk_kg_ml": [
+    "DIM",
+    "parity",
+    "milk_kg_lag1",
+    "milk_kg_lag2",
+    "THI_1_avg_anom",
+    "THI_1_avg_anom_lag1"
+  ],
+  "protein_p_ml": [
+    "DIM",
+    "parity",
+    "protein_p_lag1",
+    "protein_p_lag2",
+    "WHI_avg_anom",
+    "THI_1_avg_anom_lag1"
+  ]
+}
